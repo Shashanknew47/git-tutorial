@@ -1,2 +1,3 @@
 Hello, git hub.
-This line is added in feature-1 branch.
+This line is added in feature-1 branch.now making new change for merge conflict.
+
