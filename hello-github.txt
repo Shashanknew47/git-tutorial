@@ -1,2 +1,2 @@
 Hello, git hub.
-This line is added in feature-1 branch.
+this is added feature-1 and feature-2 branch.
